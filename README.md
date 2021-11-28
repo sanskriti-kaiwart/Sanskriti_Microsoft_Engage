@@ -1,6 +1,7 @@
 
+To install the node modules type:
+        npm install
 
-To run the application type: npm start
+To run the application type: 
+        npm run start
 
-
-Messages are printed on the server side to check if the application is working
